@@ -66,4 +66,27 @@ function naming(){
        }
      }
    }
+
+   function validate(){
+
+    var CC=document.getElementById("CC");
+    var YY=document.getElementById("YY");
+    var MM=document.getElementById("MM");
+    var DD=document.getElementById("DD");
+    // alert(DD.value)
+  
+  if((CC.value == "") || (YY.value == "") || (MM.value == "") || (DD.value == "")){
+    alert("Enter value")
+  }
+  if((MM.value <= 0) || (MM.value > 12) ){
+    alert("Enter correct month date")
+  }
+  if((DD.value <=0 ) ||(DD.value < 31) ){
+    alert("Enter correct day ")
+  }
+  else{
+    naming()
+  }
+  }
+  
    
