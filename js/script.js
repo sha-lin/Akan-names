@@ -79,10 +79,10 @@ function naming(){
     alert("Enter value")
   }
   if((MM.value <= 0) || (MM.value > 12) ){
-    alert("Enter correct month date")
+    alert("Enter correct month")
   }
   if((DD.value <=0 ) ||(DD.value > 31) ){
-    alert("Enter correct day ")
+    alert("Enter correct date ")
   }
   else{
     naming()

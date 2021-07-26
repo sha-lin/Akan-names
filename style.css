@@ -1,13 +1,13 @@
 body {
     margin:0;
     padding:0;
-    font-size: 35px;
-    background: palevioletred; 
+    font-size: 25px;
+    background: rgb(53, 40, 44); 
     color: #ffffff;
   }
   .login-box {
     position: absolute;
-    top: 70%;
+    top: 65%;
     left: 50%;
     width: 900px;
     padding: 40px;
