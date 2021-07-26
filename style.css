@@ -1,10 +1,10 @@
-/* body {
+body {
     margin:0;
     padding:0;
     font-size: 25px;
     background: rgb(53, 40, 44); 
     color: #ffffff;
-  } */
+  }
   .login-box {
     position: absolute;
     top: 65%;
@@ -30,7 +30,7 @@
     pointer-events: none;
     transition: .5s;
   }
-  body{
+  /* body{
     border: 1px solid black;
     font-size: 25px;
     text-align: justify;
@@ -38,4 +38,4 @@
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
-}
+} */
