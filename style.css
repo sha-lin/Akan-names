@@ -2,7 +2,7 @@ body {
     margin:0;
     padding:0;
     font-size: 35px;
-    background: linear-gradient(#141e30, #243b55);
+    background: palevioletred; 
     color: #ffffff;
   }
   .login-box {
