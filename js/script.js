@@ -20,49 +20,49 @@ function naming(){
     if(gender==="male") {
         if(dayOfTheWeek===0){
           alert("You were born on: " + day[0]);
-          alert("Your Akan name is: " + maleNames[0]);
+          alert("Your Akan name is: " + namesMale[0]);
         } else if(dayOfTheWeek===1){
           alert("You were born on: " + day[1]);
-          alert("Your Akan name is: " + maleNames[1]);
+          alert("Your Akan name is: " + namesMale[1]);
         } else if(dayOfTheWeek===2){
           alert("You were born on: " + day[2]);
-          alert("Your Akan name is: " + maleNames[2]);
+          alert("Your Akan name is: " + namesMale[2]);
         } else if(dayOfTheWeek===3){
           alert("You were born on: " + day[3]);
-          alert("Your Akan name is: " + maleNames[3]);
+          alert("Your Akan name is: " + namesMale[3]);
         } else if(dayOfTheWeek===4){
           alert("You were born on: " + day[4]);
-          alert("Your Akan name is: " + maleNames[4]);
+          alert("Your Akan name is: " + namesMale[4]);
         } else if(dayOfTheWeek===5){
           alert("You were born on: " + day[5]);
-          alert("Your Akan name is: " + maleNames[5]);
+          alert("Your Akan name is: " + namesMale[5]);
         } else if(dayOfTheWeek===6){
           alert("You were born on: " + day[6]);
-          alert("Your Akan name is: " + maleNames[6]);
+          alert("Your Akan name is: " + namesMale[6]);
         }
 
     } else {
         if(dayOfTheWeek===0){
          alert("You were born on: " + day[0]);
-         alert("Your Akan name is: " + femaleNames[0]);
+         alert("Your Akan name is: " + namesFemale[0]);
        } else if(dayOfTheWeek===1){
          alert("You were born on: " + day[1]);
-         alert("Your Akan name is: " + femaleNames[1]);
+         alert("Your Akan name is: " + namesFemale[1]);
        } else if(dayOfTheWeek===2){
          alert("You were born on: " + day[2]);
-         alert("Your Akan name is: " + femaleNames[2]);
+         alert("Your Akan name is: " + namesFemale[2]);
        } else if(dayOfTheWeek===3){
          alert("You were born on: " + day[3]);
-         alert("Your Akan name is: " + femaleNames[3]);
+         alert("Your Akan name is: " + namesFemale[3]);
        } else if(dayOfTheWeek===4){
          alert("You were born on: " + day[4]);
-         alert("Your Akan name is: " + femaleNames[4]);
+         alert("Your Akan name is: " + namesFemale[4]);
        } else if(dayOfTheWeek===5){
          alert("You were born on: " + day[5]);
-         alert("Your Akan name is: " + femaleNames[5]);
+         alert("Your Akan name is: " + namesFemale[5]);
        } else if(dayOfTheWeek===6){
          alert("You were born on: " + day[6]);
-         alert("Your Akan name is: " + femaleNames[6]);
+         alert("Your Akan name is: " + namesFemale[6]);
        }
      }
    }
