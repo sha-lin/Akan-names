@@ -22,7 +22,9 @@ JAVASCRIPT
 
 ## Support and contact details
 In case of any issues or questions, feel free to contact me using: 
+
 E-MAIL ADDRESS: ronoshalin@gmail.com
+
 PHONE:+254701338496
 ### License
 https://choosealicense.com/licenses/mit/#
