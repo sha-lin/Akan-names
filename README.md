@@ -10,6 +10,8 @@ This is a form project where a user inputs their details which are the birthday 
 
 * Read the short text before the form
 
+* If you want to clone this project, got to this link https://github.com/sha-lin/Akan-names.git .Paste this url link to your Visual Studio Code and on your terminal , type : git clone(paste URL)
+
 
 ## Known Bugs
 There are no known bugs at the moment.
